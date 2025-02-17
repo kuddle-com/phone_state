@@ -23,5 +23,3 @@ flutter:
       android:
         package: it.mainella.phone_state
         pluginClass: PhoneStatePlugin
-      ios:
-        pluginClass: PhoneStatePlugin
